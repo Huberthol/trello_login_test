@@ -1,0 +1,3 @@
+Login: login1@example3.com, password: haslo1 - wrong.
+Login: cezary@example3.com, password: baryka123 - wrong.
+Login: admin@example3.com, password: admin - wrong.
